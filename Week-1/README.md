@@ -1,3 +1,10 @@
+Middleware Modules to be installed:
+
+cookie-parser
+
+body-parser
+
+
 Execution:
 Run the below command to start running the server:
 
